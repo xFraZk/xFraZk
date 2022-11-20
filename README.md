@@ -1,5 +1,5 @@
 
-# 👋 Hola, soy franxyy
+# 👋 Hola, soy xFraZk
 Desarrollo aplicaciones para Discord y soy principiante en HTML. Me gusta mucho la programación y todo lo que es desarrrollo web. Mi principal objetivo es desallorar cosas simples para todos puedan usar y compatir. Soy del país Argentina
 
 # Podes encontrarme en:
