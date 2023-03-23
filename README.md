@@ -15,12 +15,12 @@ Te animo a que sigas aprendiendo y desarrollando tus habilidades, y que nunca te
 
 
 # Mi estadisticas
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xFraZky&show_icons=true&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xFraZk&show_icons=true&theme=merko)
 
 
 <p1>
 <a href="https://github.com/xFraZk/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xFraZky&langs_count=8" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xFraZk&langs_count=8" />
 </a>
 </p1>
 
