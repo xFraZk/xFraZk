@@ -6,8 +6,6 @@ Es genial que tu principal objetivo sea crear cosas simples que puedan ser utili
 
 También es interesante saber que eres de Argentina, un país con una creciente comunidad de desarrolladores y un gran potencial en la industria tecnológica. Siempre es inspirador ver a más personas interesadas en la tecnología y el desarrollo en diferentes partes del mundo.
 
-Te animo a que sigas aprendiendo y desarrollando tus habilidades, y que nunca te rindas en tu camino hacia tus metas y objetivos en la programación y el desarrollo web. ¡Mucho éxito en tus proyectos futuros!
-
 # Podes encontrarme en:
 - [Youtube](https://www.youtube.com/channel/UC1wnBNtMmi6JJUz2sLJlmAw)
 - [Twitter](https://twitter.com/franxyarg)
