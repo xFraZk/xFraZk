@@ -1,16 +1,6 @@
 # 👋 ¡Hola! Soy Franco
 
-🎨 **Diseñador Web & Product Designer**  
-📍 Desde Argentina 🇦🇷 | Lic. en Diseño Multimedial – **FDA UNLP**  
-🧠 Creo productos digitales intuitivos, accesibles y con propósito  
-
----
-
-## 💼 Sobre mí
-
 Soy diseñador con enfoque en **UX/UI**, diseño de interfaces, interacción y experiencias digitales que combinan estética + funcionalidad. Trabajo entre la estrategia, el diseño visual y el desarrollo, siempre pensando en las personas que van a usar el producto.
-
----
 
 ## 🛠️ Stack & Herramientas
 
@@ -25,8 +15,6 @@ Soy diseñador con enfoque en **UX/UI**, diseño de interfaces, interacción y e
 ![Jumpseller](https://img.shields.io/badge/-Jumpseller-00C897?style=flat)
 ![Discord.js](https://img.shields.io/badge/-Discord.js-5865F2?style=flat&logo=discord&logoColor=fff)
 
----
-
 ## 🚀 Qué me apasiona
 
 - Diseño centrado en el usuario (UX/UI)  
@@ -35,21 +23,8 @@ Soy diseñador con enfoque en **UX/UI**, diseño de interfaces, interacción y e
 - Branding digital para productos y servicios  
 - Experimentos creativos con código e interactividad  
 
----
-
 ## 📈 Stats & Visual
 
 ![Franco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical&hide_title=true&count_private=true)
 
----
-
-## 🌐 Conectemos
-
-- [💼 LinkedIn](https://linkedin.com/in/tuusuario)  
-- [🖥️ Portfolio](https://tu-portfolio.com)  
-- [📫 Email](mailto:tuemail@gmail.com)
-
----
-
-> _“Diseñar es pensar cómo funcionan las cosas para quienes las usan.”_
 
